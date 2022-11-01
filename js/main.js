@@ -18,7 +18,7 @@
 		},
 		{
 			"id": "Core",
-			"url": "https://github.com/AlexOchoki/Core-Services-Project"
+			"url": "https://1drv.ms/x/s!AqR2LYwi-4T3ggvPj841OrnqZUQj?e=S7PsvJ"
 		}
 	]
 
